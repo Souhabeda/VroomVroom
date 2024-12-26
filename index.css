@@ -224,6 +224,7 @@ clip-path: polygon(0 90%, 100% 80%, 100% 100%,0% 100%);
     font-size: 7.5vw;
     text-transform: uppercase;
     color: #12093d;
+    margin: 3rem 0;
 }
 .home img{
     width: 100%;
